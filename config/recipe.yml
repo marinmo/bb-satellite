@@ -91,6 +91,6 @@ modules:
       - com.mattjakeman.ExtensionManager # ExtensionManager
       - io.mpv.Mpv # mpv
       - org.darktable.Darktable # darktable
-      - com.raggesilver.BlackBox # blackbox
+      - app.devsuite.Ptyxis # ptyxis
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
